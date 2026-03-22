@@ -1,0 +1,20 @@
+[
+  {
+    "name": "E-mail Samenvatter",
+    "file": "email-samenvatter.js",
+    "description": "Vat automatisch lange e-mails samen en stuurt een digest naar jezelf elke ochtend.",
+    "tags": ["Gmail", "e-mail", "automatisering"]
+  },
+  {
+    "name": "Sheets naar PDF Exporter",
+    "file": "sheets-pdf-export.js",
+    "description": "Exporteert een opgegeven tabblad als PDF en slaat het op in Google Drive met de datum in de bestandsnaam.",
+    "tags": ["Sheets", "Drive", "PDF"]
+  },
+  {
+    "name": "Magister Uitval Checker",
+    "file": "uitvalchecker.js",
+    "description": "Controleert automatisch of er uitval is in je Magister rooster en stuurt een melding naar jezelf.",
+    "tags": ["Magister", "rooster", "automatisering"]
+  }
+]
